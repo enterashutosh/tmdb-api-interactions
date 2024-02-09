@@ -2,7 +2,7 @@
 A Python project showcasing interactions with The Movie Database (TMDb) API, including functionalities for searching movies, actors, and discovering movies featuring specific actors.
 
 
-#Setup:
+##Setup:
 
  1. Obtain an API key from The Movie Database.
 
