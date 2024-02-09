@@ -16,6 +16,6 @@ A Python project showcasing interactions with The Movie Database (TMDb) API, inc
 
  3. Execute each cell in the notebook to perform various operations, including:
 
-  * Searching for movies and retrieving their original names.
-  * Searching for actors and retrieving their original names.
-  * Discovering movies featuring specific actors and retrieving their titles.
+    * Searching for movies and retrieving their original names.
+    * Searching for actors and retrieving their original names.
+    * Discovering movies featuring specific actors and retrieving their titles.
